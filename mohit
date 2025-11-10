@@ -1,0 +1,8 @@
+mohit-portfolio/
+├── src/
+│   ├── App.jsx  ← (yahi code paste karna hai)
+│   └── index.js
+├── public/
+│   └── profile.jpg  ← (tumhari photo yahan daalni hai)
+├── package.json
+└── tailwind.config.js
